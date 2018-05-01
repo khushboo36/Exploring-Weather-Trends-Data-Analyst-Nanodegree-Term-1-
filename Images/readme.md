@@ -1,1 +1,1 @@
-Images of all the graphgs in the project
+Images of all the graphs in the project
